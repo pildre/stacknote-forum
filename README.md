@@ -8,4 +8,4 @@ Include the following information in your bug report:
  * Your environment (macOS/Windows/Linux) and its version.
  * Steps to reproduce if possible
 
-If you have a problem related to your account, please send an email ([info@stacknote.io](mailto:contact@inkdrop.info)).
+If you have a problem related to your account, please send an email ([info@stacknote.io](mailto:info@stacknote.io)).
